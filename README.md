@@ -25,6 +25,11 @@ Bu proje, AMD Ryzen işlemcilerle macOS'un gücünü bir araya getiren bir Hacki
 - Depolama: NVMe/SSD önerilir
 - macOS sürümü: Ventura, Monterey, Big Sur
 
+### **Test Edilen Donanım**
+- Anakart: GIGABYTE A520M-K V2 1.0 DDR4 5100MHZ 1XVGA 1XHDMI 1XM.2 USB 3.2
+- CPU: AMD RYZEN 5 5600GT 3.9GHZ 16MB 65W AM4 FANLI
+- macOS sürümü: Ventura
+
 ---
 
 ## 📂 **EFI İçeriği**
