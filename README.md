@@ -1,0 +1,2 @@
+# ryzentosh
+RyzenTosh - Türkçe EFI
