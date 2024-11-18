@@ -103,4 +103,3 @@ Telegram : https://t.me/alorape
 - Proje Detayları: Donanım ve macOS sürümü desteklerini kendi EFI yapılandırmana göre güncelle.
 - İletişim Bilgileri: Kendi GitHub ve e-posta adresini ekle.
 
-Bu README hem profesyonel hem de dikkat çekici görünecek şekilde tasarlandı! 🎉
