@@ -2,6 +2,8 @@
 
 ![Hackintosh Banner](https://i.hizliresim.com/8f3tu5j.jpg)
 
+> **Teknik Uyarı:** APU ile çalıştırmak için üretilmiş bir EFI'dir. Bunu modifiye ederek harici ekran kartları ile kullanabilirsiniz. Server şeklinde kullanacak olan kullanıcılar, lütfen HDMI DUMMY cihazı ile kullanınız. 
+
 Bu proje, AMD Ryzen işlemcilerle macOS'un gücünü bir araya getiren bir Hackintosh EFI yapılandırmasıdır. Modern OpenCore desteğiyle tasarlandı ve **stabil** bir Hackintosh deneyimi sunar.
 
 > **Uyarı:** Hackintosh kurulumu, macOS lisans sözleşmelerine aykırı olabilir. Bu dosyayı indirerek yalnızca kişisel eğitim ve araştırma amaçlı kullandığınızı kabul etmiş olursunuz.
