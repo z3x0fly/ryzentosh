@@ -19,6 +19,7 @@ Bu proje, AMD Ryzen işlemcilerle macOS'un gücünü bir araya getiren bir Hacki
 
 ### **Grafik Kartı**
 - AMD RX 500 serisi ve üzeri (NVIDIA kartlar *Pascal öncesi desteklenir*)
+- AMD VEGA SERİSİ APU KARTLARI DA DESTEKLENİR!!!
 
 ### **Diğer**
 - RAM: Minimum 8GB
