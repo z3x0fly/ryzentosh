@@ -67,13 +67,14 @@ XMP Profile: Enable (istenirse)
 macOS Kurulumuna Başlayın
 
 USB'den boot ederek OpenCore ekranına gelin ve macOS kurulumunu başlatın.
-🛠️ Sorun Giderme
-Boot Etmiyor:
-config.plist içinde SMBIOS ayarlarını kontrol edin.
-GPU Sorunları:
-AMD Navi veya Polaris kartlar için doğru kext dosyalarını yükleyin.
-Ses Çalışmıyor:
-AppleALC.kext yamalarını kontrol edin.
+
+## **🛠️ Sorun Giderme**
+- Boot Etmiyor:
+  config.plist içinde SMBIOS ayarlarını kontrol edin.
+- GPU Sorunları:
+  AMD Navi veya Polaris kartlar için doğru kext dosyalarını yükleyin.
+- Ses Çalışmıyor:
+  AppleALC.kext yamalarını kontrol edin.
 
 ## 🖼️ **Ekran Görüntüleri**
 
