@@ -73,13 +73,13 @@ AMD Navi veya Polaris kartlar için doğru kext dosyalarını yükleyin.
 Ses Çalışmıyor:
 AppleALC.kext yamalarını kontrol edin.
 
-##🖼️ **Ekran Görüntüleri**
+## 🖼️ **Ekran Görüntüleri**
 
 https://i.hizliresim.com/8f3tu5j.jpg
 
 AMD Ryzen işlemci üzerinde macOS Ventura.
 
-##🌟 **Katkıda Bulunun**
+## 🌟 **Katkıda Bulunun**
 EFI yapılandırmasında geliştirme yapmak veya önerilerde bulunmak için lütfen Pull Request gönderin ya da bir Issue açın.
 
 ## 🔗 Kaynaklar
