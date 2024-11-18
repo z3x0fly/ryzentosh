@@ -96,10 +96,3 @@ Sorularınız mı var? Bana ulaşın:
 Discord : 4n0nfly
 Telegram : https://t.me/alorape
 
----
-
-### **Nasıl Özelleştirilir?**
-- Görseller: Örnek görseller yerine kendi EFI ekran görüntülerini alıp, GitHub’a yükledikten sonra URL’lerini ekleyebilirsin.
-- Proje Detayları: Donanım ve macOS sürümü desteklerini kendi EFI yapılandırmana göre güncelle.
-- İletişim Bilgileri: Kendi GitHub ve e-posta adresini ekle.
-
